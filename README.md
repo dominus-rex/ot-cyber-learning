@@ -1,5 +1,5 @@
 # OT Cybersecurity Learning Log
-#UK based electrical professional transitioning into OT cybersecurity.
+UK based electrical professional transitioning into OT cybersecurity.
 
 This repository records learning and practical work focused on OT cybersecurity.
 
