@@ -23,4 +23,14 @@ Move from electrical and panel wiring into OT cybersecurity roles.
 - networking  
 - cybersecurity  
 - plc  
-- projects  
+- projects
+  
+Progress log
+
+This section tracks ongoing learning and practical work.
+
+Started networking basics and cybersecurity fundamentals
+
+Set up GitHub learning repository
+
+Preparing Siemens TIA Portal environment
